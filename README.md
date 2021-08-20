@@ -257,7 +257,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[12.3 Activities](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/3/Activities)|[12.3 Slideshow](https://docs.google.com/presentation/d/1BWKWJoy_Cx2WXCZnBjZKTneoZr2l90MD5DQ8-B5m7NQ/edit#slide=id.g8eebbba)|[12.3 Video](https://zoom.us/rec/share/bq0v6fhyvfnlv7iQR-90jwVWgrRTdupq52X8DD_aHdqvJ0Bh7lkJz3e6yhXK9ADq.CHuGxntiksWfWed-?startTime=1629409539000)|[12.3 Summary](https://docs.google.com/document/d/1mQdnzQ5jyMiVIgjSUcMsgEKcsmfHefeN/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true) 
 
 * [Web HW Instructions](02-Homework/12-Web-Scraping-and-Document-Databases/Instructions)|[Video](https://zoom.us/rec/share/OyOjdkJ6vAAEcBOzPZcujorsyqHZDfj3bZKcw-tQglfTJUmoi7fgpZMyfaZrbjYE.0M-K9S9x9jcB2cM_?startTime=1628818276000)|[Rubric](https://docs.google.com/document/d/1paGEIFS5yp2VQu6G8F45B4uj1t1t29zL73KEQrD0xpo/edit)
-
 * [Student Guide](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/StudentGuide.md)
 
 **Unit 12 Relevant Resources**
@@ -266,3 +265,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [mongodb commands](https://docs.google.com/document/d/1z5CBZez4VVlI8qh_0vl407C7efnyxSDTwwtViM80LGk/edit?usp=sharing)
 * [PyMongo](https://pymongo.readthedocs.io/en/stable/tutorial.html)
 * [Splinter Docs](https://splinter.readthedocs.io/en/latest/)
+
