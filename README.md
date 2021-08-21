@@ -267,6 +267,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Splinter Docs](https://splinter.readthedocs.io/en/latest/)
 
 ### [Unit 13 - ETL Project Week]()
+* [ETL Project requirements](01-Lesson-Plans/13-ETL-Project/README.md)
 
 |Activities|Slideshow|
 |---|---|
