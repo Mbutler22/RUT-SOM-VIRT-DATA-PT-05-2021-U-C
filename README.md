@@ -271,4 +271,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 |Activities|Slideshow|
 |---|---|
-|[13.1 Activities](01-Lesson-Plans/13-ETL-Project/1/Activities)|[13.1 Slideshow](https://docs.google.com/presentation/d/1y9nDG_D4Y4PiwQJn-Wx4T7e0pyIPmdgsZX1_KxPu_b4/edit#slide=id.g8f6e17478c_1_1108)
+|[13.1 Activities](01-Lesson-Plans/13-Project-2/1/Activities/)|[13.1 Slideshow](https://docs.google.com/presentation/d/1y9nDG_D4Y4PiwQJn-Wx4T7e0pyIPmdgsZX1_KxPu_b4/edit#slide=id.g8f6e17478c_1_1108)
