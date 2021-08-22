@@ -268,7 +268,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ### [Unit 13 - ETL Project Week]()
 * [ETL Project requirements](https://drive.google.com/file/d/1nnxNMoCt3ZfR23jbLnA7utLQxI8PcpRy/view?usp=sharing)
+* [INSTALLATION OF PSYCOPG2](https://docs.google.com/document/d/16r64lYvfx_CALe02ngpj_52QOWM2UPLSUIRJ0Q7RC_8/edit?usp=sharing)
 
-|Activities|Slideshow|
-|---|---|
-|[13.1 Activities](01-Lesson-Plans/13-Project-2/1/Activities/)|[13.1 Slideshow](https://docs.google.com/presentation/d/1y9nDG_D4Y4PiwQJn-Wx4T7e0pyIPmdgsZX1_KxPu_b4/edit#slide=id.g8f6e17478c_1_1108)
+|Activities|Slideshow|Video|
+|---|---|---|
+|[13.1 Activities](01-Lesson-Plans/13-Project-2/1/Activities/)|[13.1 Slideshow](https://docs.google.com/presentation/d/1y9nDG_D4Y4PiwQJn-Wx4T7e0pyIPmdgsZX1_KxPu_b4/edit#slide=id.g8f6e17478c_1_1108)|[13.1 Video](https://zoom.us/rec/share/6R5mwD_NBGQFfLgvt61E0zt8ikrluYXveDQFQOp8Q71cbOm171MuCp_FH_9GPHIz.2nfXivcvPN3IM2Dx?startTime=1629551727000)
