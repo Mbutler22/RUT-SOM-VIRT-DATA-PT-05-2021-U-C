@@ -278,6 +278,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
-|[14.1 Activities](01-Lesson-Plans/14-Interactive-Web-Visualizations/1/Activities)|[14.1 Slideshow](https://docs.google.com/presentation/d/1yR1qFEDzGV5YpQpEqdoYVfVecnJJ63MNCwBfFnqnqC4/edit#slide=id.gc2a522aeb4_0_2427)
+|[14.1 Activities](01-Lesson-Plans/14-Interactive-Web-Visualizations/1/Activities)|[14.1 Slideshow](https://docs.google.com/presentation/d/1cE0MucWIdRSg2nKUIRrMF0MeTfsFiNzaTSRnGREIMRI/edit#slide=id.gc2a522aeb4_0_2427)
 
 
