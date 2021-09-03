@@ -282,6 +282,9 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[14.2 Activities](01-Lesson-Plans/14-Interactive-Web-Visualizations/2/Activities)|[14.2 Slideshow](https://docs.google.com/presentation/d/1MtQDtKAutQTt94ASpPVK1vnA-HUx9f7HnSiHJomWkZM/edit#slide=id.gc54d4a55d5_0_2724)|[14.2 Video](https://zoom.us/rec/share/xy9adTCpomq9op6z-jM3z1kHQy4W7Y-LeCD9KJbWhIlbcasf0CCmvdB1Y0CtUwll.3yUrqXPaFptKdhs8?startTime=1630446345000)|[14.2 Summary](https://docs.google.com/document/d/1H9Jg3zhX_9k6ju4hKLsHRQFmZQJOVqa4/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 |[14.3 Activities](01-Lesson-Plans/14-Interactive-Web-Visualizations/3/Activities)|[14.3 Slideshow](https://docs.google.com/presentation/d/1eqXJHKy7RYwE-ksGfbeEQn9FJ75B_gJvM_E6Wl7dCRY/edit#slide=id.gc59957c9b6_0_2724)|[14.3 Video](https://zoom.us/rec/share/OA47HnofCyxXFuw6yVHcPX5r127BWbOxYP_f0CKzJy2bLydxR46XI_9Uyclj0Knk.8egzF9FsuGS2_UmL?startTime=1630619178000)|[14.3 Summary](https://docs.google.com/document/d/1nNT0xgVaOJMrwWwEZd_vgwepNOduN7SN/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 
+* [14-Interactive-Web-Visualization-HW-Instructions](02-Homework/14-Interactive-Web-Visualization/Instructions)|[Video](https://zoom.us/rec/share/OA47HnofCyxXFuw6yVHcPX5r127BWbOxYP_f0CKzJy2bLydxR46XI_9Uyclj0Knk.8egzF9FsuGS2_UmL?startTime=1630633450000)|[Rubric](https://docs.google.com/document/d/1wD_hOEJELD2hifTaECfx66xlpEdJeYm3mL8q2Zoq1vo/edit)
+* [Student Guide](01-Lesson-Plans/14-Interactive-Web-Visualization/StudentGuide.md)
+
 **Unit 14 Relevant Resources**
 * [W3 Schools Javascript Tutorial](https://www.w3schools.com/js/default.asp)
 * [W3 Schools Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)
