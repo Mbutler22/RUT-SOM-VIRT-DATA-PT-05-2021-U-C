@@ -283,7 +283,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[14.3 Activities](01-Lesson-Plans/14-Interactive-Web-Visualizations/3/Activities)|[14.3 Slideshow](https://docs.google.com/presentation/d/1eqXJHKy7RYwE-ksGfbeEQn9FJ75B_gJvM_E6Wl7dCRY/edit#slide=id.gc59957c9b6_0_2724)|[14.3 Video](https://zoom.us/rec/share/OA47HnofCyxXFuw6yVHcPX5r127BWbOxYP_f0CKzJy2bLydxR46XI_9Uyclj0Knk.8egzF9FsuGS2_UmL?startTime=1630619178000)|[14.3 Summary](https://docs.google.com/document/d/1nNT0xgVaOJMrwWwEZd_vgwepNOduN7SN/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 
 * [14-Interactive-Web-Visualization-HW-Instructions](02-Homework/14-Interactive-Web-Visualizations/Instructions/)|[Video](https://zoom.us/rec/share/OA47HnofCyxXFuw6yVHcPX5r127BWbOxYP_f0CKzJy2bLydxR46XI_9Uyclj0Knk.8egzF9FsuGS2_UmL?startTime=1630633450000)|[Rubric](https://docs.google.com/document/d/1wD_hOEJELD2hifTaECfx66xlpEdJeYm3mL8q2Zoq1vo/edit)
-* [Student Guide](01-Lesson-Plans/14-Interactive-Web-Visualization/StudentGuide.md)
+
 
 **Unit 14 Relevant Resources**
 * [W3 Schools Javascript Tutorial](https://www.w3schools.com/js/default.asp)
@@ -293,3 +293,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [JS Cheat Sheet](https://htmlcheatsheet.com/js/)
 * [Plotly Cheat Sheet](https://images.plot.ly/plotly-documentation/images/plotly_js_cheat_sheet.pdf)
 * [Javascript Async Demo](https://github.com/nshown/javascript-async-demo)
+* [Javascript E6 Arrow Functions](https://www.youtube.com/watch?v=h33Srr5J9nY)
+* [Demystifying the Mysteries of sort() in JavaScript](https://medium.com/madhash/demystifying-the-mysteries-of-sort-in-javascript-515ea5b48c7d)
