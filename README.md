@@ -295,3 +295,9 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Javascript Async Demo](https://github.com/nshown/javascript-async-demo)
 * [Javascript E6 Arrow Functions](https://www.youtube.com/watch?v=h33Srr5J9nY)
 * [Demystifying the Mysteries of sort() in JavaScript](https://medium.com/madhash/demystifying-the-mysteries-of-sort-in-javascript-515ea5b48c7d)
+
+### [15-Mapping-Web](01-Lesson-Plans/15-Mapping-Web)
+
+|Activities|Slideshow|Video|Summary|
+|---|---|---|---|
+|[15.1 Activities](01-Lesson-Plans/15-Mapping-Web/1/Activities)|[15.1 Slideshow](https://docs.google.com/presentation/d/117c6VJsT2-f6PriyvL5Ywl5Qpk-a4LMjI_L82c-IOY8/edit#slide=id.gc69d1e7c39_0_4788)|[15.1 Video]()|[15.1 Summary](https://docs.google.com/document/d/1g0kzOml4I5iJxjcnqsqEdwHoKZ3yLnmZ/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
