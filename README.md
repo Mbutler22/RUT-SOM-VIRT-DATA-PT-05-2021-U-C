@@ -256,7 +256,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[12.2 Activities](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/2/Activities)|[12.2 Slideshow](https://docs.google.com/presentation/d/13y-zxFjmDdW8J0FWDn8cbc1AOOS78B-renQpaY58zUg/edit#slide=id.g8ee4498251_0_0)|[12.2 Video](https://zoom.us/rec/share/i4j_BaBdPmxrgJM-YPUad815FmlZjWNY9GUrjeyQnCXwcmyGc0MFXYmr-zgikd5Q.twHPcCx4KKqGwf6r?startTime=1629236776000)|[12.2 Summary](https://docs.google.com/document/d/1qaRyqRGz0QqY0H6Fam0HS4aKHyH8qeBX/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)  
 |[12.3 Activities](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/3/Activities)|[12.3 Slideshow](https://docs.google.com/presentation/d/1BWKWJoy_Cx2WXCZnBjZKTneoZr2l90MD5DQ8-B5m7NQ/edit#slide=id.g8eebbba)|[12.3 Video](https://zoom.us/rec/share/bq0v6fhyvfnlv7iQR-90jwVWgrRTdupq52X8DD_aHdqvJ0Bh7lkJz3e6yhXK9ADq.CHuGxntiksWfWed-?startTime=1629409539000)|[12.3 Summary](https://docs.google.com/document/d/1mQdnzQ5jyMiVIgjSUcMsgEKcsmfHefeN/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true) 
 
-* [Web-Scraping-and-Document-Databases-HW-Instructions](02-Homework/12-Web-Scraping-and-Document-Databases/Instructions)|[Video](https://zoom.us/rec/share/OyOjdkJ6vAAEcBOzPZcujorsyqHZDfj3bZKcw-tQglfTJUmoi7fgpZMyfaZrbjYE.0M-K9S9x9jcB2cM_?startTime=1628818276000)|[Rubric](https://docs.google.com/document/d/1paGEIFS5yp2VQu6G8F45B4uj1t1t29zL73KEQrD0xpo/edit)
+* [Web-Scraping-and-Document-Databases-HW-Instructions](02-Homework/12-Web-Scraping-and-Document-Databases/Instructions)|[Video](https://zoom.us/rec/share/TU5RBFjIDsQ3CtpKuPHvJMDRYrS9nfVnL_0OTTmVCb1YJ-hOsbxKlJWnM6KgrJyC.wGMnjwnEjqrGI94r?startTime=1629423577000)|[Rubric](https://docs.google.com/document/d/1paGEIFS5yp2VQu6G8F45B4uj1t1t29zL73KEQrD0xpo/edit)
 * [Student Guide](01-Lesson-Plans/12-Web-Scraping-and-Document-Databases/StudentGuide.md)
 
 **Unit 12 Relevant Resources**
@@ -274,13 +274,16 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |---|---|---|
 |[13.1 Activities](01-Lesson-Plans/13-Project-2/1/Activities/)|[13.1 Slideshow](https://docs.google.com/presentation/d/1y9nDG_D4Y4PiwQJn-Wx4T7e0pyIPmdgsZX1_KxPu_b4/edit#slide=id.g8f6e17478c_1_1108)|[13.1 Video](https://zoom.us/rec/share/6R5mwD_NBGQFfLgvt61E0zt8ikrluYXveDQFQOp8Q71cbOm171MuCp_FH_9GPHIz.2nfXivcvPN3IM2Dx?startTime=1629551727000)
 
-### [14-Interactive-Web-Visualizations](01-Lesson-Plans/14-Interactive-Web-Visualizations)
+### [Unit 14-Interactive-Web-Visualizations](01-Lesson-Plans/14-Interactive-Web-Visualizations)
 
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
 |[14.1 Activities](01-Lesson-Plans/14-Interactive-Web-Visualizations/1/Activities)|[14.1 Slideshow](https://docs.google.com/presentation/d/1cE0MucWIdRSg2nKUIRrMF0MeTfsFiNzaTSRnGREIMRI/edit#slide=id.gc2a522aeb4_0_2427)|[14.1 Video](https://zoom.us/rec/share/jxB6b6dpN9Uja6D5ufH9rno5z2iM03rkwsIsWnEqRQfD1b2BmVcfRk9flAv4d620.0N4dlckL7qMFguoC?startTime=1630156561000)|[14.1 Summary](https://docs.google.com/document/d/1NyCkxGAgWiEd5IJ7IEXZ0MhDO8KETFkK/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 |[14.2 Activities](01-Lesson-Plans/14-Interactive-Web-Visualizations/2/Activities)|[14.2 Slideshow](https://docs.google.com/presentation/d/1MtQDtKAutQTt94ASpPVK1vnA-HUx9f7HnSiHJomWkZM/edit#slide=id.gc54d4a55d5_0_2724)|[14.2 Video](https://zoom.us/rec/share/xy9adTCpomq9op6z-jM3z1kHQy4W7Y-LeCD9KJbWhIlbcasf0CCmvdB1Y0CtUwll.3yUrqXPaFptKdhs8?startTime=1630446345000)|[14.2 Summary](https://docs.google.com/document/d/1H9Jg3zhX_9k6ju4hKLsHRQFmZQJOVqa4/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
-|[14.3 Activities](01-Lesson-Plans/14-Interactive-Web-Visualizations/3/Activities)|[14.3 Slideshow](https://docs.google.com/presentation/d/1eqXJHKy7RYwE-ksGfbeEQn9FJ75B_gJvM_E6Wl7dCRY/edit#slide=id.gc59957c9b6_0_2724)
+|[14.3 Activities](01-Lesson-Plans/14-Interactive-Web-Visualizations/3/Activities)|[14.3 Slideshow](https://docs.google.com/presentation/d/1eqXJHKy7RYwE-ksGfbeEQn9FJ75B_gJvM_E6Wl7dCRY/edit#slide=id.gc59957c9b6_0_2724)|[14.3 Video](https://zoom.us/rec/share/OA47HnofCyxXFuw6yVHcPX5r127BWbOxYP_f0CKzJy2bLydxR46XI_9Uyclj0Knk.8egzF9FsuGS2_UmL?startTime=1630619178000)|[14.3 Summary](https://docs.google.com/document/d/1nNT0xgVaOJMrwWwEZd_vgwepNOduN7SN/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+
+* [14-Interactive-Web-Visualization-HW-Instructions](02-Homework/14-Interactive-Web-Visualizations/Instructions/)|[Video](https://zoom.us/rec/share/OA47HnofCyxXFuw6yVHcPX5r127BWbOxYP_f0CKzJy2bLydxR46XI_9Uyclj0Knk.8egzF9FsuGS2_UmL?startTime=1630633450000)|[Rubric](https://docs.google.com/document/d/1wD_hOEJELD2hifTaECfx66xlpEdJeYm3mL8q2Zoq1vo/edit)
+
 
 **Unit 14 Relevant Resources**
 * [W3 Schools Javascript Tutorial](https://www.w3schools.com/js/default.asp)
@@ -290,3 +293,18 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [JS Cheat Sheet](https://htmlcheatsheet.com/js/)
 * [Plotly Cheat Sheet](https://images.plot.ly/plotly-documentation/images/plotly_js_cheat_sheet.pdf)
 * [Javascript Async Demo](https://github.com/nshown/javascript-async-demo)
+* [Javascript E6 Arrow Functions](https://www.youtube.com/watch?v=h33Srr5J9nY)
+* [Demystifying the Mysteries of sort() in JavaScript](https://medium.com/madhash/demystifying-the-mysteries-of-sort-in-javascript-515ea5b48c7d)
+
+### [Unit 15-Mapping-Web](01-Lesson-Plans/15-Mapping-Web)
+* [Mapbox Installations](https://docs.google.com/document/d/1TzoCltBotjskfK3pvOmplS0pPctREW66yRggbET-78M/edit?usp=sharing)
+
+|Activities|Slideshow|Video|Summary|
+|---|---|---|---|
+|[15.1 Activities](01-Lesson-Plans/15-Mapping-Web/1/Activities)|[15.1 Slideshow](https://docs.google.com/presentation/d/117c6VJsT2-f6PriyvL5Ywl5Qpk-a4LMjI_L82c-IOY8/edit#slide=id.gc69d1e7c39_0_4788)|[15.1 Video](https://zoom.us/rec/share/u-lwCfjlHs8Q5khatX0o-rXXlKqmKOGJG1rFeLcVvml_ggUgF32mrjijHz7vQfPX.s_6yNB5OLyvw4Z1O?startTime=1631051149000)|[15.1 Summary](https://docs.google.com/document/d/1g0kzOml4I5iJxjcnqsqEdwHoKZ3yLnmZ/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+|[15.2 Activities](01-Lesson-Plans/15-Mapping-Web/2/Activities)|[15.2 Slideshow](https://docs.google.com/presentation/d/1xt7i7U39ai25oOcIfnOrJ7ErRFDeamdm13YTIs5Ggf4/edit#slide=id.gc6f1757a7d_0_2220)
+
+**Unit 15 Relevant Resources**
+* [Leaflet.js](https://leafletjs.com/)
+* [Available Maps for Leaflet](https://leaflet-extras.github.io/leaflet-providers/preview/)
+* [Wikipedia GeoJSON Example](https://en.wikipedia.org/wiki/GeoJSON#Example)
