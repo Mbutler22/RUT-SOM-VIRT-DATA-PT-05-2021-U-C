@@ -297,7 +297,14 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Demystifying the Mysteries of sort() in JavaScript](https://medium.com/madhash/demystifying-the-mysteries-of-sort-in-javascript-515ea5b48c7d)
 
 ### [15-Mapping-Web](01-Lesson-Plans/15-Mapping-Web)
+* [Mapbox Installations](https://docs.google.com/document/d/1TzoCltBotjskfK3pvOmplS0pPctREW66yRggbET-78M/edit?usp=sharing)
 
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
-|[15.1 Activities](01-Lesson-Plans/15-Mapping-Web/1/Activities)|[15.1 Slideshow](https://docs.google.com/presentation/d/117c6VJsT2-f6PriyvL5Ywl5Qpk-a4LMjI_L82c-IOY8/edit#slide=id.gc69d1e7c39_0_4788)|[15.1 Video]()|[15.1 Summary](https://docs.google.com/document/d/1g0kzOml4I5iJxjcnqsqEdwHoKZ3yLnmZ/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+|[15.1 Activities](01-Lesson-Plans/15-Mapping-Web/1/Activities)|[15.1 Slideshow](https://docs.google.com/presentation/d/117c6VJsT2-f6PriyvL5Ywl5Qpk-a4LMjI_L82c-IOY8/edit#slide=id.gc69d1e7c39_0_4788)|[15.1 Video](https://zoom.us/rec/share/u-lwCfjlHs8Q5khatX0o-rXXlKqmKOGJG1rFeLcVvml_ggUgF32mrjijHz7vQfPX.s_6yNB5OLyvw4Z1O?startTime=1631051149000)|[15.1 Summary](https://docs.google.com/document/d/1g0kzOml4I5iJxjcnqsqEdwHoKZ3yLnmZ/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+|[15.2 Activities](01-Lesson-Plans/15-Mapping-Web/2/Activities)|[15.2 Slideshow](https://docs.google.com/presentation/d/1xt7i7U39ai25oOcIfnOrJ7ErRFDeamdm13YTIs5Ggf4/edit#slide=id.gc6f1757a7d_0_2220)
+
+**Unit 15 Relevant Resources**
+* [Leaflet.js](https://leafletjs.com/)
+* [Available Maps for Leaflet](https://leaflet-extras.github.io/leaflet-providers/preview/)
+* [Wikipedia GeoJSON Example](https://en.wikipedia.org/wiki/GeoJSON#Example)
