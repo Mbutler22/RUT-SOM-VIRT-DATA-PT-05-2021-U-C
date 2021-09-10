@@ -309,3 +309,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Leaflet.js](https://leafletjs.com/)
 * [Available Maps for Leaflet](https://leaflet-extras.github.io/leaflet-providers/preview/)
 * [Wikipedia GeoJSON Example](https://en.wikipedia.org/wiki/GeoJSON#Example)
+* [Using GeoJSON with Leaflet](https://leafletjs.com/examples/geojson/)
+* [Leaflet Plugins](https://leafletjs.com/plugins.html)
