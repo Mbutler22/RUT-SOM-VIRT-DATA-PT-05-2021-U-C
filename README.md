@@ -305,6 +305,9 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[15.2 Activities](01-Lesson-Plans/15-Mapping-Web/2/Activities)|[15.2 Slideshow](https://docs.google.com/presentation/d/1xt7i7U39ai25oOcIfnOrJ7ErRFDeamdm13YTIs5Ggf4/edit#slide=id.gc6f1757a7d_0_2220)|[15.2 Video](https://zoom.us/rec/share/X6vbw3FYhz3f3jSL2JX7LzU245358wDY2lMIqu184shckKwjreajmOJD_A2vgal5.irkVZkANABGvi7at?startTime=1631224002000)|[15.2 Summary](https://docs.google.com/document/d/1_unBYrE3vxRp1n54UC_SbxNIQFFy3OCS/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 |[15.3 Activities](01-Lesson-Plans/15-Mapping-Web/3/Activities)|[15.3 Slideshow](https://docs.google.com/presentation/d/1XyoGusksu2RioD7QODcdeVogc1PN0mLgqUVrLCBOCys/edit#slide=id.gc6057a243e_0_2220)|[15.3 Video](https://zoom.us/rec/share/dyJclATTWVTCL6k47hrMSOe2D2dE26CKaPv0d2OCl6xVVbbZ6j04wx0ebN-Gj7AM._X4oB95VUBQKS5q_?startTime=1631366219000)|[15.3 Summary](https://docs.google.com/document/d/12pDY3mIvuRDt3dIfdbtWMW7lzlpAQiJc/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 
+* [Web HW Instructions](02-Homework/15-Mapping-Web/Instructions)|[Video](https://zoom.us/rec/share/dyJclATTWVTCL6k47hrMSOe2D2dE26CKaPv0d2OCl6xVVbbZ6j04wx0ebN-Gj7AM._X4oB95VUBQKS5q_?startTime=1631378394000)|[Rubric](https://docs.google.com/document/d/1kDNeT4a54ik_AZrHYN3LmVMqH0hDuiwbK2h5lHNxumQ/edit)
+* [Student Guide](01-Lesson-Plans/15-Mapping-Web/StudentGuide.md)
+
 **Unit 15 Relevant Resources**
 * [Leaflet.js](https://leafletjs.com/)
 * [Available Maps for Leaflet](https://leaflet-extras.github.io/leaflet-providers/preview/)
