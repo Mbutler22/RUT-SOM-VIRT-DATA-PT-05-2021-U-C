@@ -314,3 +314,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Wikipedia GeoJSON Example](https://en.wikipedia.org/wiki/GeoJSON#Example)
 * [Using GeoJSON with Leaflet](https://leafletjs.com/examples/geojson/)
 * [Leaflet Plugins](https://leafletjs.com/plugins.html)
+
+### [Unit 16-Project-3-and-R](01-Lesson-Plans/16-Project-3-and-R)
+
+|Activities|Slideshow|Video|Summary|
+|[16.1 Activities](01-Lesson-Plans/16-Project-3-and-R/1/Activities)|[16.1 Slideshow](https://docs.google.com/presentation/d/1Z4IffTcNNXZmBRM7RVbpIPJQDZ_jEc7azn0OFNeYUp8/edit#slide=id.g56743c1ada_0_127)|[16.1 Video])|[16.1 Summary]()
