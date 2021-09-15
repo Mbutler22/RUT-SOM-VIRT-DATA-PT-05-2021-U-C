@@ -319,4 +319,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
-|[16.1 Activities](01-Lesson-Plans/16-Project-3-and-R/1/Activities)|[16.1 Slideshow](https://docs.google.com/presentation/d/1Z4IffTcNNXZmBRM7RVbpIPJQDZ_jEc7azn0OFNeYUp8/edit#slide=id.g56743c1ada_0_127)|[16.1 Video]()|[16.1 Summary]()
+|[16.1 Activities](01-Lesson-Plans/16-Project-3-and-R/1/Activities)|[16.1 Slideshow](https://docs.google.com/presentation/d/1Z4IffTcNNXZmBRM7RVbpIPJQDZ_jEc7azn0OFNeYUp8/edit#slide=id.g56743c1ada_0_127)|[16.1 Video](https://zoom.us/rec/share/y73ZGmqJhXqr8fmME8fCK-f0vN7gTzDnR5Z4LV7rI4Beq-glONtKuh2Jt_wZGRWj.ex4xMONWxCnZJ-mb?startTime=1631655990000)|[16.1 Summary]()
