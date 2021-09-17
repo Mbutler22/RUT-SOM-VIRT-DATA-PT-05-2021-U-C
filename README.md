@@ -320,4 +320,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
 |[16.1 Activities](01-Lesson-Plans/16-Project-3-and-R/1/Activities)|[16.1 Slideshow](https://docs.google.com/presentation/d/1Z4IffTcNNXZmBRM7RVbpIPJQDZ_jEc7azn0OFNeYUp8/edit#slide=id.g56743c1ada_0_127)|[16.1 Video](https://zoom.us/rec/share/y73ZGmqJhXqr8fmME8fCK-f0vN7gTzDnR5Z4LV7rI4Beq-glONtKuh2Jt_wZGRWj.ex4xMONWxCnZJ-mb?startTime=1631655990000)|[16.1 Summary](https://docs.google.com/document/d/1IoJEWyOdSsYXqGxaTu1PNAt-JOApm7rD/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
-|[16.2 Activities](01-Lesson-Plans/16-Project-3-and-R/2/Activities)|[16.2 Slideshow](None available)
+|[16.2 Activities](01-Lesson-Plans/16-Project-3-and-R/2/Activities)|[16.2 Slideshow](None available)|[16.2 Video](https://zoom.us/rec/share/EXMkufWhZUiQiE6qyd465qcUbXZm9T0e7YpOxIYIffbCnbu945nEH-zIL_LHtfiO.PH0YvqjmM0aL7ugv?startTime=1631828725000)|[16.2 Summary](https://docs.google.com/document/d/1rtO0LRVnptlCfvAIF1rRByG3PsInJATK/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+
+*  [Flask Video](https://zoom.us/rec/share/EXMkufWhZUiQiE6qyd465qcUbXZm9T0e7YpOxIYIffbCnbu945nEH-zIL_LHtfiO.PH0YvqjmM0aL7ugv?startTime=1631838377000)
