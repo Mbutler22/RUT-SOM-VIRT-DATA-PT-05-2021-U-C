@@ -323,3 +323,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[16.2 Activities](01-Lesson-Plans/16-Project-3-and-R/2/Activities)|[16.2 Slideshow](None available)|[16.2 Video](https://zoom.us/rec/share/EXMkufWhZUiQiE6qyd465qcUbXZm9T0e7YpOxIYIffbCnbu945nEH-zIL_LHtfiO.PH0YvqjmM0aL7ugv?startTime=1631828725000)|[16.2 Summary](https://docs.google.com/document/d/1rtO0LRVnptlCfvAIF1rRByG3PsInJATK/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 
 *  [Flask Video](https://zoom.us/rec/share/EXMkufWhZUiQiE6qyd465qcUbXZm9T0e7YpOxIYIffbCnbu945nEH-zIL_LHtfiO.PH0YvqjmM0aL7ugv?startTime=1631838377000)
+*  [Flask Repo JS Visualizations](https://github.com/nshown/flask-js-visualizations)
+*  [Flask Repos mongo sql js vis](https://github.com/nshown/flask-mongo-sql-js-vis)
