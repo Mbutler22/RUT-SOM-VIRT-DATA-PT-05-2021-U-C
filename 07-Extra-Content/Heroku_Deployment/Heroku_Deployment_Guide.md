@@ -67,7 +67,7 @@ flask run
 * Now that all of the the project dependencies are installed, we need to generate the `requirements.txt` file. This file is a list of the Python packages required to run the app. Heroku will use this file to install all of the app's dependencies.
 
 ```sh
-pip freeze > requirements.txt
+pip list --format=freeze > requirements.txt
 ```
 
 * **NOTE:** it is generally a good idea to check your `requirements.txt` file for any unnecessary packages. Only keep the packages that are required to run your application.
