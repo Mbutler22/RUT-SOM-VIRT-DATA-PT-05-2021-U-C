@@ -338,3 +338,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 **Unit 18 Relevant Resources**
 * [Tableau Site](https://public.tableau.com/s/)
+* [Tableau Learning SIte](https://www.tableau.com/learn)
+* [Tableau Certification](https://www.tableau.com/learn/certification)
