@@ -334,7 +334,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 ### [Unit 18-Tableau](01-Lesson-Plans/18-Tableau)
 |Activities|Video|Summary|
 |---|---|---|
-|[18.1 Activities](01-Lesson-Plans/18-Tableau/1/Activities)|[18.1 Video]()|[18.1 Summary]()
+|[18.1 Activities](01-Lesson-Plans/18-Tableau/1/Activities)|[18.1 Video](https://zoom.us/rec/share/pxpwOVcVj5T3fe36raHhpvP4EiBIgwdLabsw3hzIqDqVMJocfYjeKPXOJm0hY3ST.hCuj34k0nKoKw7HS?startTime=1632865557000)|[18.1 Summary](https://docs.google.com/document/d/1WWOXObOj4PC0IdrHiKxf6nuBpAO97m0y/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+|[18.2 Activities](01-Lesson-Plans/18-Tableau/2/Activities)|[18.1 Video]()|[18.1 Summary]()
 
 **Unit 18 Relevant Resources**
 * [Tableau Site](https://public.tableau.com/s/)
