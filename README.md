@@ -350,4 +350,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
 
-|[19.1 Activities](01-Lesson-Plans/Unit 19-Supervised Machine Learning/1/Activities)|[19.1 Slideshow](https://docs.google.com/presentation/d/1WCkg_jvDw-IXBmH6I0yQmNYFNGWM_Bp3-LODmhgVjSo/edit#slide=id.gc8a6761a46_0_2732)|[19.1 Video]()|[19.1 Summary]()
+|[19.1 Activities](01-Lesson-Plans/19-Supervised-Machine-Learning/1/Activities)|[19.1 Slideshow](https://docs.google.com/presentation/d/1WCkg_jvDw-IXBmH6I0yQmNYFNGWM_Bp3-LODmhgVjSo/edit#slide=id.gc8a6761a46_0_2732)|[19.1 Video]()|[19.1 Summary]()
