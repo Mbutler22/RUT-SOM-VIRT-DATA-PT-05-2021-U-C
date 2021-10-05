@@ -346,7 +346,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Better Tableau Visualizations](https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day)
 * [Nathan's Tableau StoryBoard](https://public.tableau.com/app/profile/nathan.shown/viz/StoryBoardDemo/Story1)
 
-### [Unit 19 Supervised Machine Learning](01-Lesson-Plans/Unit 19 Supervised Machine Learning)
+### [Unit 19 Supervised Machine Learning](01-Lesson-Plans/19-Supervised-Machine-Learning)
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
 
