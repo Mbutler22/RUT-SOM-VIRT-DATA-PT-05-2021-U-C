@@ -336,9 +336,10 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |---|---|---|
 |[18.1 Activities](01-Lesson-Plans/18-Tableau/1/Activities)|[18.1 Video](https://zoom.us/rec/share/pxpwOVcVj5T3fe36raHhpvP4EiBIgwdLabsw3hzIqDqVMJocfYjeKPXOJm0hY3ST.hCuj34k0nKoKw7HS?startTime=1632865557000)|[18.1 Summary](https://docs.google.com/document/d/1WWOXObOj4PC0IdrHiKxf6nuBpAO97m0y/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 |[18.2 Activities](01-Lesson-Plans/18-Tableau/2/Activities)|[18.2 Video](https://zoom.us/rec/share/XipYbE6ZStvbgAUWkfhoA03fUNcXBma37UCl8b2M-VW4iHL5UWnXknMCLo7x2AuF.FtV9W264TA0Mh6FL?startTime=1633038457000)|[18.2 Summary](https://docs.google.com/document/d/1B8DKplw_XDqunBzx1FPOXQV76y9lWMIm/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
-|[18.3 Activities](01-Lesson-Plans/18-Tableau/3/Activities)|[18.3 Video]()|[18.3 Summary]()
+|[18.3 Activities](01-Lesson-Plans/18-Tableau/3/Activities)|[18.3 Video](https://zoom.us/rec/share/ZLS8m7aTwHBsLqor_ouhLF3a0fsrarmdvUSyRgyEKZ3dbPlAW6INsQXYGc0HAppT.YAPreW05YMEzMJDU)|[18.3 Summary](https://docs.google.com/document/d/1SEVUYbcK4hZmElWWyScXrRccWX60xnos/edit?usp=sharing&ouid=116280221593110073521&rtpof=true&sd=true)
 
 **Unit 18 Relevant Resources**
+* [Tableau Homework Review Video](https://zoom.us/rec/share/ZLS8m7aTwHBsLqor_ouhLF3a0fsrarmdvUSyRgyEKZ3dbPlAW6INsQXYGc0HAppT.YAPreW05YMEzMJDU?startTime=1633198611000)
 * [Tableau Site](https://public.tableau.com/s/)
 * [Tableau Learning SIte](https://www.tableau.com/learn)
 * [Tableau Certification](https://www.tableau.com/learn/certification)
