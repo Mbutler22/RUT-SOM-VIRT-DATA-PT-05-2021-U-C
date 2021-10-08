@@ -355,4 +355,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[19.3 Activities](01-Lesson-Plans/19-Supervised-Machine-Learning/3/Activities)|[19.3 Slideshow](https://docs.google.com/presentation/d/1eUTx5sa1Yw7Re3mFOWDhsRj2WpS4SoiZIpxRj5yj9KQ/edit#slide=id.gc9c37fe521_0_2745)|[19.3 Video]()|[19.3 Summary]()
 
 **Unit 19 Relevant Resources**
-* [ROC and AUC](https://www.youtube.com/watch?v=4jRBRDbJemM)
+* [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM)
