@@ -352,4 +352,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |---|---|---|---|
 |[19.1 Activities](01-Lesson-Plans/19-Supervised-Machine-Learning/1/Activities)|[19.1 Slideshow](https://docs.google.com/presentation/d/1WCkg_jvDw-IXBmH6I0yQmNYFNGWM_Bp3-LODmhgVjSo/edit#slide=id.gc8a6761a46_0_2732)|[19.1 Video](https://zoom.us/rec/share/XTM6BJeKi2ZkPtkFgw-Egm4xEj1sEPpbCgucgjqWuywU3YhD52bR4tACso1BrCXl.ed2dzTef9-8rArdp?startTime=1633470359000)|[19.1Summary](https://docs.google.com/document/d/1zNkefFp0CgeZh8CunSjuUt1QlMKG7TMR/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 |[19.2 Activities](01-Lesson-Plans/19-Supervised-Machine-Learning/2/Activities)|[19.2 Slideshow](https://docs.google.com/presentation/d/11b1p4p2A2frtEigiT7CHyFOQP561oxouKgh53u8VN3g/edit#slide=id.gc9380723fb_0_159)|[19.2 Video](https://zoom.us/rec/share/JFbEN6DBdd3LZqZIx_5I3W4259drSaokYgQGQc2f5kc9MqqSpWerTqFpZDSiAuTT.BVOzmhTWippibYs-?startTime=1633643117000)|[19.2 Summary](https://docs.google.com/document/d/1VrTqAN9OGLP6nPAK2HQvvPJlJXaNaysD/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
-|[19.3 Activities](01-Lesson-Plans/19-Supervised-Machine-Learning/3/Activities)|[19.3 Slideshow](https://docs.google.com/presentation/d/1eUTx5sa1Yw7Re3mFOWDhsRj2WpS4SoiZIpxRj5yj9KQ/edit#slide=id.gc9c37fe521_0_2745)
+|[19.3 Activities](01-Lesson-Plans/19-Supervised-Machine-Learning/3/Activities)|[19.3 Slideshow](https://docs.google.com/presentation/d/1eUTx5sa1Yw7Re3mFOWDhsRj2WpS4SoiZIpxRj5yj9KQ/edit#slide=id.gc9c37fe521_0_2745)|[19.3 Video]()|[19.3 Summary]()
+
+**Unit 19 Relevant Resources**
+* [ROC and AUC](https://www.youtube.com/watch?v=4jRBRDbJemM)
