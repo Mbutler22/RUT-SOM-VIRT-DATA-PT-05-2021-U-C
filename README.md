@@ -354,7 +354,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[19.2 Activities](01-Lesson-Plans/19-Supervised-Machine-Learning/2/Activities)|[19.2 Slideshow](https://docs.google.com/presentation/d/11b1p4p2A2frtEigiT7CHyFOQP561oxouKgh53u8VN3g/edit#slide=id.gc9380723fb_0_159)|[19.2 Video](https://zoom.us/rec/share/JFbEN6DBdd3LZqZIx_5I3W4259drSaokYgQGQc2f5kc9MqqSpWerTqFpZDSiAuTT.BVOzmhTWippibYs-?startTime=1633643117000)|[19.2 Summary](https://docs.google.com/document/d/1VrTqAN9OGLP6nPAK2HQvvPJlJXaNaysD/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 |[19.3 Activities](01-Lesson-Plans/19-Supervised-Machine-Learning/3/Activities)|[19.3 Slideshow](https://docs.google.com/presentation/d/1eUTx5sa1Yw7Re3mFOWDhsRj2WpS4SoiZIpxRj5yj9KQ/edit#slide=id.gc9c37fe521_0_2745)|[19.3 Video](https://zoom.us/rec/share/GAnkdTjmspNS8Tm_eE4j22TcoxFoHLKxU5CAHpCqeAcBqYLEe16z26eK-q28cQE.I00b8gply3lpu40e?startTime=1633785357000)|[19.3 Summary](https://docs.google.com/document/d/1gTtdOEQkmqPYjCJIYC74wfjcpom4dKva/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 
-* [Web HW Instructions](02-Homework/19-Supervised-Machine-Learning/Instructions)|[Video](https://zoom.us/rec/share/GAnkdTjmspNS8Tm_eE4j22TcoxFoHLKxU5CAHpCqeAcBqYLEe16z26eK-q28cQE.I00b8gply3lpu40e?startTime=1633802960000)|[Rubric]()
+* [Web HW Instructions](02-Homework/19-Supervised-Machine-Learning/Instructions)|[Video](https://zoom.us/rec/share/GAnkdTjmspNS8Tm_eE4j22TcoxFoHLKxU5CAHpCqeAcBqYLEe16z26eK-q28cQE.I00b8gply3lpu40e?startTime=1633802960000)|[Rubric](https://docs.google.com/document/d/1f_eN3TYiGqlaWL9Utk5U-P491OeWqFSiv7FIlI_d4_U/edit)
 * [Student Guide](01-Lesson-Plans/19-Supervised-Machine-Learning/StudentGuide.md)
 
 **Unit 19 Relevant Resources**
