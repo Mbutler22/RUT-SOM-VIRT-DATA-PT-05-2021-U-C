@@ -368,3 +368,9 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 * [Web HW Instructions](02-Homework/20-Unsupervised-Learning/Instructions/)|[Video](https://zoom.us/rec/share/6me4S7IU3mXFV6CgVpLCPtVWm5aI6eXMlxxvKWoY97dI3S5AlhnkpZ9zJyDb4jKd.6lXy4FhhU_U5KYD2?startTime=1634262431000)|[Rubric](https://docs.google.com/document/d/1zhiC8-PtfMknDxYHagsTukryQAJSdXFRWa-aK3W28Vg/edit)
 * [Student Guide](01-Lesson-Plans/19-Supervised-Machine-Learning/StudentGuide.md)
+
+**Unit 20 Relevant Resources**
+* [StatQuest: Principal Component Analysis (PCA), Step-by-Step!](https://www.youtube.com/watch?v=FgakZw6K1QQ&t=992s)
+* [scikit-learn Machine Learning in Python](https://scikit-learn.org/stable/)
+
+
