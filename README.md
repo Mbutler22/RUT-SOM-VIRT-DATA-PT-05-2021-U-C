@@ -373,4 +373,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [StatQuest: Principal Component Analysis (PCA), Step-by-Step!](https://www.youtube.com/watch?v=FgakZw6K1QQ&t=992s)
 * [scikit-learn Machine Learning in Python](https://scikit-learn.org/stable/)
 
-
+### [Unit 21 Deep Learning](01-Lesson-Plans/21-Deep-Learning/)
+|Activities|Slideshow|Video|Summary|
+|---|---|---|---|
+|[20.1 Activities](01-Lesson-Plans/21-Deep-Learning/1/Activities)|[21.1 Slideshow]()|[21.1 Video]()|[20.1 Summary](https://docs.google.com/presentation/d/1HJG1NEai2rDufRuJKJTBavijnfHBfyEWfFgWuXWwg3M/edit#slide=id.gb418d881ee_0_5402)
