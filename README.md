@@ -384,5 +384,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [StatQuest: t-SNE, Clearly Explained](https://www.youtube.com/watch?v=NEaUSP4YerM)
 * [But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk)
 * [How to Choose an Activation Function for Deep Learning](https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/)
-* [https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/](https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7)
-* 
+* [https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/](https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7) 
