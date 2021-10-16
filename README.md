@@ -376,4 +376,13 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 ### [Unit 21 Deep Learning](01-Lesson-Plans/21-Deep-Learning/)
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
-|[20.1 Activities](01-Lesson-Plans/21-Deep-Learning/1/Activities)|[21.1 Slideshow](https://docs.google.com/presentation/d/1HJG1NEai2rDufRuJKJTBavijnfHBfyEWfFgWuXWwg3M/edit#slide=id.gb418d881ee_0_5402)|[21.1 Video]()|[20.1 Summary]()
+|[20.1 Activities](01-Lesson-Plans/21-Deep-Learning/1/Activities)|[21.1 Slideshow](https://docs.google.com/presentation/d/1HJG1NEai2rDufRuJKJTBavijnfHBfyEWfFgWuXWwg3M/edit#slide=id.gb418d881ee_0_5402)|[21.1 Video](https://zoom.us/rec/share/pZ_o4xqFw5fFLmxh_5JBGZaVtOuOJw6DEqyNX_QyBDxPhk5dMZ_Q-u7hSapfQryI.I7yf5LXyXPWWNXHV?startTime=1634390238000)|[20.1 Summary](https://docs.google.com/document/d/1ZqkHahNL7oPc-BUoQYwE_G98cESc5ac6/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+
+**Unit 21 Relevant Resources**
+* [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+* [Tensorflow-Neural Network Playground](https://playground.tensorflow.org/#activation=relu&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=1&seed=0.31080&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+* [StatQuest: t-SNE, Clearly Explained](https://www.youtube.com/watch?v=NEaUSP4YerM)
+* [But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk)
+* [How to Choose an Activation Function for Deep Learning](https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/)
+* [https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/](https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7)
+* 
