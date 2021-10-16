@@ -376,8 +376,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 ### [Unit 21 Deep Learning](01-Lesson-Plans/21-Deep-Learning/)
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
-|[21.1 Activities](01-Lesson-Plans/21-Deep-Learning/1/Activities)|[21.1 Slideshow](https://docs.google.com/presentation/d/1HJG1NEai2rDufRuJKJTBavijnfHBfyEWfFgWuXWwg3M/edit#slide=id.gb418d881ee_0_5402)|[21.1 Video](https://zoom.us/rec/share/pZ_o4xqFw5fFLmxh_5JBGZaVtOuOJw6DEqyNX_QyBDxPhk5dMZ_Q-u7hSapfQryI.I7yf5LXyXPWWNXHV?startTime=1634390238000)|[20.1 Summary](https://docs.google.com/document/d/1ZqkHahNL7oPc-BUoQYwE_G98cESc5ac6/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
-|[21.2 Activities](01-Lesson-Plans/21-Deep-Learning/2/Activities)|[21.2 Slideshow](https://docs.google.com/presentation/d/1bruP3uKqrHb46wQW-ptelB5zMBK2BlPQL2Gk97h5cqs/edit#slide=id.gbad34fe3da_0_0)|[21.2 Video]()|[20.2 Summary]()
+|[21.1 Activities](01-Lesson-Plans/21-Deep-Learning/1/Activities)|[21.1 Slideshow](https://docs.google.com/presentation/d/1HJG1NEai2rDufRuJKJTBavijnfHBfyEWfFgWuXWwg3M/edit#slide=id.gb418d881ee_0_5402)|[21.1 Video](https://zoom.us/rec/share/pZ_o4xqFw5fFLmxh_5JBGZaVtOuOJw6DEqyNX_QyBDxPhk5dMZ_Q-u7hSapfQryI.I7yf5LXyXPWWNXHV?startTime=1634390238000)|[21.1 Summary](https://docs.google.com/document/d/1ZqkHahNL7oPc-BUoQYwE_G98cESc5ac6/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+|[21.2 Activities](01-Lesson-Plans/21-Deep-Learning/2/Activities)|[21.2 Slideshow](https://docs.google.com/presentation/d/1bruP3uKqrHb46wQW-ptelB5zMBK2BlPQL2Gk97h5cqs/edit#slide=id.gbad34fe3da_0_0)|[21.2 Video]()|[21.2 Summary]()
 
 **Unit 21 Relevant Resources**
 * [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
