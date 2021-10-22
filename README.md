@@ -378,7 +378,10 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |---|---|---|---|
 |[21.1 Activities](01-Lesson-Plans/21-Deep-Learning/1/Activities)|[21.1 Slideshow](https://docs.google.com/presentation/d/1HJG1NEai2rDufRuJKJTBavijnfHBfyEWfFgWuXWwg3M/edit#slide=id.gb418d881ee_0_5402)|[21.1 Video](https://zoom.us/rec/share/pZ_o4xqFw5fFLmxh_5JBGZaVtOuOJw6DEqyNX_QyBDxPhk5dMZ_Q-u7hSapfQryI.I7yf5LXyXPWWNXHV?startTime=1634390238000)|[21.1 Summary](https://docs.google.com/document/d/1ZqkHahNL7oPc-BUoQYwE_G98cESc5ac6/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 |[21.2 Activities](01-Lesson-Plans/21-Deep-Learning/2/Activities)|[21.2 Slideshow](https://docs.google.com/presentation/d/1bruP3uKqrHb46wQW-ptelB5zMBK2BlPQL2Gk97h5cqs/edit#slide=id.gbad34fe3da_0_0)|[21.2 Video](https://zoom.us/rec/share/z2WncM9iz7-c5vcsrvNTE9GFSVevhw4F5DLtotYHxSRK3C8pb5gf1vQzWIgAmktD.-fcUO4oQxwHbHHPm?startTime=1634679962000)|[21.2 Summary](https://docs.google.com/document/d/181L5Pd1EzXjbFzHvRJt68D3_TDgUv39G/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
-|[21.3 Activities](01-Lesson-Plans/21-Deep-Learning/3/Activities)|[21.3 Slideshow](https://docs.google.com/presentation/d/13WCDpwCzIcdTu7BKHDBQvvBRmwCxbWn5n6pdP_gLRQk/edit#slide=id.gbe22de1969_0_650)|[21.3 Video]()|[21.3 Summary]()
+|[21.3 Activities](01-Lesson-Plans/21-Deep-Learning/3/Activities)|[21.3 Slideshow](https://docs.google.com/presentation/d/13WCDpwCzIcdTu7BKHDBQvvBRmwCxbWn5n6pdP_gLRQk/edit#slide=id.gbe22de1969_0_650)|[21.3 Video](https://zoom.us/rec/share/HzNI6m-bhzjud9v5xIIjZ46m3_FEVT5CsyBmi3hQ4NH-P3Mp1st3ezwdhn8GUdVu.4u5dH1EFPIDCou3S?startTime=1634852751000)|[21.3 Summary](https://docs.google.com/document/d/1i8Li4-M2CJkIhz_q1TIHe_k0ER6D5BnE/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
+
+* [Web HW Instructions](02-Homework/21-Deep-Learning/Instructions/)|[Video](https://zoom.us/rec/share/HzNI6m-bhzjud9v5xIIjZ46m3_FEVT5CsyBmi3hQ4NH-P3Mp1st3ezwdhn8GUdVu.4u5dH1EFPIDCou3S?startTime=1634867332000)|[Rubric](https://docs.google.com/document/d/1SLOROX0lqZwa1ms-iRbHMQr1QSsMT2k0boO9YpFBnHA/edit)
+* [Student Guide](01-Lesson-Plans/21-Deep-Learning/StudentGuide.md)
 
 **Unit 21 Relevant Resources**
 * [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
