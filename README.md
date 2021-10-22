@@ -391,3 +391,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [How to Choose an Activation Function for Deep Learning](https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/)
 * [https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/](https://medium.com/@danqing/a-practical-guide-to-relu-b83ca804f1f7) 
 * [Keras Hyperband Tuner](https://keras.io/api/keras_tuner/tuners/hyperband/)
+
+### [Unit 22 Big Data](01-Lesson-Plans/22-Big-Data/)
+|Activities|Slideshow|Video|Summary|
+|---|---|---|---|
+|[21.1 Activities](01-Lesson-Plans/22-Big-Data/1/Activities)|[21.1 Slideshow](https://docs.google.com/presentation/d/13KVZ1GvmYyE4x-ueMjNHw7x_5XcIi8dG0ctZ632oRcE/edit#slide=id.g567a507a9f_0_0)
