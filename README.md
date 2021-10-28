@@ -403,3 +403,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Python Inheritance](https://www.w3schools.com/python/python_inheritance.asp)
 * [Python Generators](https://www.programiz.com/python-programming/generator)
 * [Truthy and Falsy: When All is Not Equal in JavaScript - SitePoint](https://www.sitepoint.com/javascript-truthy-falsy/)
+* [List of Pyspark Distributions](https://downloads.apache.org/spark/)
+* [breakdown of what the VectorAssembler](https://spark.apache.org/docs/latest/ml-features#vectorassembler)
