@@ -397,7 +397,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |---|---|---|---|
 |[22.1 Activities](01-Lesson-Plans/22-Big-Data/1/Activities)|[22.1 Slideshow](https://docs.google.com/presentation/d/13KVZ1GvmYyE4x-ueMjNHw7x_5XcIi8dG0ctZ632oRcE/edit#slide=id.g567a507a9f_0_0)|[22.1 Video](https://zoom.us/rec/share/wi7jbbHYyoef3jz5svdXpMB1HDcRXAobrVtfg-Ydj8FrjQu2T80Vq9pJR2cI-iRT.6ae3J8FqbjS_zi4A?startTime=1634994965000)|[22.1 Summary](https://docs.google.com/document/d/1ZqkHahNL7oPc-BUoQYwE_G98cESc5ac6/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 |[22.2 Activities](01-Lesson-Plans/22-Big-Data/2/Activities)|[22.2 Slideshow](https://docs.google.com/presentation/d/1StdWfs1A_qw0ijO8clLTOWhGQWYyiiDfWTXp9pHAT7U/edit#slide=id.g567a507a9f_0_0)|[22.2 Video](https://zoom.us/rec/share/KOpW-9nL3kSngfb56g_iu6rPykmvbCHxTYx5mwb18P-IuH7IcRTTva9HqJqvnrLv.XTXJzzZvtSiRGdKa?startTime=1635284794000)|[22.2 Summary](https://docs.google.com/document/d/1hDJXt3LvMceVVtLwVm2oI9M0jcQi6GAA/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
-|[22.3 Activities](01-Lesson-Plans/22-Big-Data/3/Activities)|[22.3 Slideshow](https://docs.google.com/presentation/d/16LqVD9Dgh1YpXMEw_ZwvlML3vqPleH_d4PXQgCW4Z0c/edit#slide=id.p)
+|[22.3 Activities](01-Lesson-Plans/22-Big-Data/3/Activities)|[22.3 Slideshow](https://docs.google.com/presentation/d/113jaaZdQQgY2K7RMl6Fgw3JkQPdY3CM-BsdvnLZgxeo/edit#slide=id.p)
 
 **Unit 22 Relevant Resources**
 * [Python Inheritance](https://www.w3schools.com/python/python_inheritance.asp)
