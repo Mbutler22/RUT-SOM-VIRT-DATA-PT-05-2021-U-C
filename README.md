@@ -406,3 +406,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [Truthy and Falsy: When All is Not Equal in JavaScript - SitePoint](https://www.sitepoint.com/javascript-truthy-falsy/)
 * [List of Pyspark Distributions](https://downloads.apache.org/spark/)
 * [breakdown of what the VectorAssembler](https://spark.apache.org/docs/latest/ml-features#vectorassembler)
+* [aws_check_billing](https://rutsomvirtdat-uso4504.slack.com/files/U021EB3HUET/F02KG422SBU/aws_check_billing.pdf)
+* [AWS Free Tier](https://rutsomvirtdat-uso4504.slack.com/files/U021EB3HUET/F02KUN33QKB/aws-free-tier.pdf)
+* [rds_pgadmin_](https://rutsomvirtdat-uso4504.slack.com/files/U021EB3HUET/F02KDELJR0D/rds_pgadmin_guide.pdf)
