@@ -398,7 +398,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[22.1 Activities](01-Lesson-Plans/22-Big-Data/1/Activities)|[22.1 Slideshow](https://docs.google.com/presentation/d/13KVZ1GvmYyE4x-ueMjNHw7x_5XcIi8dG0ctZ632oRcE/edit#slide=id.g567a507a9f_0_0)|[22.1 Video](https://zoom.us/rec/share/wi7jbbHYyoef3jz5svdXpMB1HDcRXAobrVtfg-Ydj8FrjQu2T80Vq9pJR2cI-iRT.6ae3J8FqbjS_zi4A?startTime=1634994965000)|[22.1 Summary](https://docs.google.com/document/d/1ZqkHahNL7oPc-BUoQYwE_G98cESc5ac6/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 |[22.2 Activities](01-Lesson-Plans/22-Big-Data/2/Activities)|[22.2 Slideshow](https://docs.google.com/presentation/d/1StdWfs1A_qw0ijO8clLTOWhGQWYyiiDfWTXp9pHAT7U/edit#slide=id.g567a507a9f_0_0)|[22.2 Video](https://zoom.us/rec/share/KOpW-9nL3kSngfb56g_iu6rPykmvbCHxTYx5mwb18P-IuH7IcRTTva9HqJqvnrLv.XTXJzzZvtSiRGdKa?startTime=1635284794000)|[22.2 Summary](https://docs.google.com/document/d/1hDJXt3LvMceVVtLwVm2oI9M0jcQi6GAA/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
 |[22.3 Activities](01-Lesson-Plans/22-Big-Data/3/Activities)|[22.3 Slideshow](https://docs.google.com/presentation/d/113jaaZdQQgY2K7RMl6Fgw3JkQPdY3CM-BsdvnLZgxeo/edit#slide=id.p)|[22.3 Video](https://zoom.us/rec/share/ihXIBbk-dK510FUpbcclDQW4t2DSMs99rSuYU97t1wWLE0hcmmOgC7tDnqBhdVTF.n6V62LVeH8iF1lVa?startTime=1635457535000)|[22.3 Summary](https://docs.google.com/document/d/1_oX78ZzAOnHEFzXpO2kvSe7i0EQBet9f/edit?usp=sharing&ouid=113735434228321813659&rtpof=true&sd=true)
-|[22.4 Activities](01-Lesson-Plans/22-Big-Data/4/Activities)|[22.4 Slideshow](https://docs.google.com/presentation/d/1257v9sT7tw-6gmLrAj1ayIEvd86YK7OVFgn3zM2r4js/edit#slide=id.g7ad77fb758_0_0)
+|[22.4 Activities](01-Lesson-Plans/22-Big-Data/4/Activities)|[22.4 Slideshow](https://docs.google.com/presentation/d/1257v9sT7tw-6gmLrAj1ayIEvd86YK7OVFgn3zM2r4js/edit#slide=id.g7ad77fb758_0_0)|[22.4 Video]()|[22.4 Summary]()
 
 **Unit 22 Relevant Resources**
 * [Python Inheritance](https://www.w3schools.com/python/python_inheritance.asp)
@@ -410,3 +410,8 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [AWS Free Tier](https://rutsomvirtdat-uso4504.slack.com/files/U021EB3HUET/F02KUN33QKB/aws-free-tier.pdf)
 * [rds_pgadmin_](https://rutsomvirtdat-uso4504.slack.com/files/U021EB3HUET/F02KDELJR0D/rds_pgadmin_guide.pdf)
 * [DataBricks Sign up](https://rutsomvirtdat-uso4504.slack.com/files/U021EB3HUET/F02KLGYPXNE/signup.pdf)
+
+### [Unit 23-Project-4](01-Lesson-Plans/23-Project-4/)
+|Activities|Slideshow|Video|Summary|
+|---|---|---|---|
+|[23.1 Activities](01-Lesson-Plans/23-Project-4/1/Activities)|[23.1 Slideshow](https://docs.google.com/presentation/d/1VuTYTW3L-RYeK4Jb0YQlARPo1AlNgVKnsxk0-dOzsKE/edit#slide=id.g473a132ac1_0_7)
