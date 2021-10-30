@@ -409,3 +409,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 * [aws_check_billing](https://rutsomvirtdat-uso4504.slack.com/files/U021EB3HUET/F02KG422SBU/aws_check_billing.pdf)
 * [AWS Free Tier](https://rutsomvirtdat-uso4504.slack.com/files/U021EB3HUET/F02KUN33QKB/aws-free-tier.pdf)
 * [rds_pgadmin_](https://rutsomvirtdat-uso4504.slack.com/files/U021EB3HUET/F02KDELJR0D/rds_pgadmin_guide.pdf)
+* [DataBricks Sign up](https://rutsomvirtdat-uso4504.slack.com/files/U021EB3HUET/F02KLGYPXNE/signup.pdf?origin_team=T0223Q14D1P&origin_channel=C022WM281DJ)
