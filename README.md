@@ -419,3 +419,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 **Unit 23 Relevant Resources**
 * [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+* [Here's the playbook for getting uniques from a numpy array](https://stackoverflow.com/questions/10741346/numpy-most-efficient-frequency-counts-for-unique-values-in-an-array)
