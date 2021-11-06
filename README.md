@@ -415,7 +415,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |Activities|Slideshow|Video|Summary|
 |---|---|---|---|
 |[23.1 Activities](01-Lesson-Plans/23-Project-4/1/Activities)|[23.1 Slideshow](https://docs.google.com/presentation/d/1VuTYTW3L-RYeK4Jb0YQlARPo1AlNgVKnsxk0-dOzsKE/edit#slide=id.g473a132ac1_0_7)|[23.1 Video](https://zoom.us/rec/share/4VXIV8lciJbxwwSnpLodwBWUfwvdQmRX3L5iyqxQ1DAAPayCzpv0bdqRBhmhIbXy.znj6-nWPsDJ-x7Xj?startTime=1635889523000)|[23.1 Summary](none available)
-|[23.2 Activities](01-Lesson-Plans/23-Project-4/2/Activities)|[23.2 Slideshow](non available)
+|[23.2 Activities](01-Lesson-Plans/23-Project-4/2/Activities)|[23.2 Slideshow](non available)|[23.2 Video](https://zoom.us/rec/share/X-vdsVZKiFodWWdYV7Fg-EX2gW5hhVRzrjmnpyhsMYcqerwjCUJxSa1qzWt4R12h.ktpVAfQu33W5Htv7?startTime=1636062346000)|[23.2 Summary](none available)
 
 **Unit 23 Relevant Resources**
 * [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
